@@ -16,7 +16,7 @@ To use the script all you have to do is:
   2) Extract it to any location
   3) Run the External IP Getter.py file
 
-If you want to have the script run automaticlly when you log in:
+If you want to have the script run automatically when you log in:
   1) Download the code
   2) Extract it to any location
   3) Create a shortcut to the External IP Getter.py file
