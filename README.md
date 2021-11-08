@@ -10,7 +10,7 @@ The script requrires Python 3.4 or higher Toast Notifier as well as Beautiful So
 
 - Toast Notifier: `pip install win10toast`
 
-#Usage
+# Usage
 To use the script all you have to do is:
   1) Download the code
   2) Extract it to any location
