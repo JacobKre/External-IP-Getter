@@ -4,7 +4,7 @@ A simple script for getting your external IP address and lets you know when it's
 # Requirements
 The script requrires Python 3.4 or higher Toast Notifier as well as Beautiful Soup which can be installed with the following:
 
-- [Python 3.4 Or Higher](https://www.python.org/)
+- [Python 3.4 or higher](https://www.python.org/)
 
 - Beautiful Soup: `pip install beautifulsoup4`
 
