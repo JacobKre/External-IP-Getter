@@ -6,8 +6,8 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-mailbullet_api_key = os.getenv("API_KEY")
-mailbullet_api_secret = os.getenv("API_SECRET")
+mailjet_api_key = os.getenv("API_KEY")
+mailjet_api_secret = os.getenv("API_SECRET")
 
 toaster = ToastNotifier()
 URL = 'https://whatsmyip.com/'
