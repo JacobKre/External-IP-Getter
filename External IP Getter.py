@@ -22,8 +22,8 @@ else:
     toaster.show_toast("IP Address Status:", f"The external IP is outdated and has been changed to {ip}")
     open("SavedIP.txt", "w").write(f"{ip}")
 
-    api_key = mailbullet_api_key
-    api_secret = mailbullet_api_secret
+    api_key = mailjet_api_key
+    api_secret = mailjet_api_secret
     mailjet = Client(auth=(api_key, api_secret), version='v3.1')
     data = {
     'Messages': [
